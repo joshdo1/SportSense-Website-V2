@@ -1,6 +1,6 @@
 # Website
 
-This website is built using [Docusaurus](https://docusaurus.io/), a modern static website generator.
+Live demo can be found @ https://sportsense.netlify.app/
 
 ### Installation
 
